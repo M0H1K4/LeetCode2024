@@ -1,1 +1,1 @@
-# LeetCode adventure-2024
+# LeetCode adventure 2024
