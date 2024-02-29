@@ -6,6 +6,8 @@
 // const d = consoleHelloWorld()
 // console.log(d)
 
+// Square numbers with map 
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 const squeredNumbers = numbers.map(num => num * num)
 console.log(squeredNumbers)
+//// 
